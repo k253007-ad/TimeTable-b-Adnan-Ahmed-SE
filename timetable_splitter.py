@@ -135,7 +135,7 @@ def load_schedule(file):
         st.error(f"Error: The file '{file}' was not found. Please make sure it's in the same directory.")
         return pd.DataFrame() # Return empty dataframe on error
 
-scheduleA = load_schedule("Timetable-1-b.csv")
+scheduleA = load_schedule("timetable1b.csv")
 
 # -------------------------
 # Section Selector
