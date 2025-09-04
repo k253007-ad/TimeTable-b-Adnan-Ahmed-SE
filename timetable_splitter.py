@@ -147,7 +147,7 @@ section = st.radio(
     key="section_selector"
 )
 
-schedule = scheduleA if section == "BSE-1B"
+schedule = scheduleA
 
 # -------------------------
 # Title Box
