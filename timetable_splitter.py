@@ -295,7 +295,7 @@ if section == "BSE-1B":
     st.markdown(
         """
         <div class="notices-box">
-            <h3>📢 Notices for BSE-1A</h3>
+            <h3>📢 Notices for BSE-1b</h3>
             <ul>
                 <li>Report any bugs/issues or change of schedule to me on Whatsapp </li>
                 <li> </li>
@@ -310,8 +310,8 @@ if section == "BSE-1B":
         <div class="assignments-box">
             <h3>📝 Assignments Due for BSE-1A</h3>
             <ul>
-                <li><b>Physics Lab:Complete Lab 1 and Lab 3 all tasks (DUE FRIDAY) </b> </li>
-                <li><b>ICT:write a brief two-page assignment on the history of computers (500_600 words). [Submission on Saturday through GCR] </b></li>
+                <li><b>Some assignments </b> </li>
+                <li><b>Complete some stuff </b></li>
                 
             </ul>
         </div>
