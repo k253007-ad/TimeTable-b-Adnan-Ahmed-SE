@@ -235,7 +235,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 # -------------------------
 # Tabs for Days
 # -------------------------
-day_order = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+day_order = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday","Extra"]
 days = sorted(schedule["Day"].unique(), key=lambda day: day_order.index(day) if day in day_order else -1)
 
 if not days:
