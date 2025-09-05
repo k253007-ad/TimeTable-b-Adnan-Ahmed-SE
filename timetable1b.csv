@@ -2,14 +2,18 @@ Day,Start_Time,End_Time,Course,Teacher,Venue
 Monday,8:00,8:50,PF,Ms.Fizza Mansoor,E-33
 Monday,8:55,9:45,ICP,Ms.Wajiha Najam,E-33
 Monday,10:45,13:25,FE LAB,Ms.Maimoona,C-20
-Monday,14:25,15:15,AP,Sir.Miqdad Khan,E-32
-Monday,15:20,16:05,IST,Sir.Imad Uddin,E-32
-Tuesday,8:00,8:50,English,Ms.Maimoona,C-15
-Tuesday,10:45,11:35,Applied Physics,Engr. Aamir,C-14
-Tuesday,13:30,16:05,ICT Lab,Engr. Ghulam, Block 3 Lab-5
-Thursday,8:00,8:50,Applied calculus,Engr. Qurat ul Ain,C-12
-Thursday,11:40,12:30,Applied Physics Lab,Engr. Ahsan,C-12
-Thursday,11:40,12:30,Applied Physics ,Engr. Aamir,C-12
-Thursday,14:25,15:15,OHS,Engr. Aqib,C-13
-Friday,8:00,10:40,Applied Physics,Engr. Maryam,Phy Lab
-Friday,11:40,13:25,English,Ms. Maimoona,C-15
+Monday,14:25,15:15,AP,Mr.Miqdad Khan,E-32
+Monday,15:20,16:05,IST,Mr.Imad Uddin,E-32
+Tuesday,8:00,10:40,ICT LAB,Ms.Syeda Tehreem,DS Lab-6
+Tuesday,11:40,12:30,CAL,Ms.Rabia Sagheer,E-34
+Tuesday,12:35,13:25,PF,Ms.Fizza Mansoor,E-35
+Tuesday,14:25,15:15,AP,Mr.Miqdad Khan,E-33
+Thursday,8:55,9:45,FE,Ms.Wajiha Akber,E-35
+Thursday,10:45,11:35,CAL,Ms.Rabia Sagheer,E-32
+Thursday,12:35,13:25,ICP,Ms.Wajiha Najam,E-34
+Thursday,13:30,14:20,IST,Mr.Imad Uddin,E-34
+Thursday,14:25,15:15,PF,Ms.Fizza Mansoor,E-32
+Friday,8:00,10:40,PF LAB,Ms.Izzah Salam,CY Lab-8
+Friday,11:40,12:30,CAL,Ms.Rabia Sagheer,E-34
+Friday,13:30,14:20,FE,Ms.Wajiha Akber,E-33
+Friday,15:20,13:05,AP,Mr.Miqdad Khan,D-27
