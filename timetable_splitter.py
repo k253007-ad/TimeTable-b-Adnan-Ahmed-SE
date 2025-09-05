@@ -141,6 +141,13 @@ scheduleA = load_schedule("timetable1b.csv")
 # Section Selector
 # -------------------------
 section = st.radio(
+    "Program Selectioni",
+    ["BSE-1B"],
+    horizontal=True,
+    key="section_selector"
+)
+
+section = st.radio(
     "Select Section",
     ["BSE-1B"],
     horizontal=True,
