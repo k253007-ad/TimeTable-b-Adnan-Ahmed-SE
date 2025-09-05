@@ -6,7 +6,7 @@ import pytz
 # -------------------------
 # Page Config
 # -------------------------
-st.set_page_config(page_title="Class Schedule", layout="wide")
+st.set_page_config(page_title="BSE-1B App", layout="wide")
 
 # -------------------------
 # Custom CSS for styling
@@ -214,11 +214,11 @@ if next_class is not None:
     st.markdown(
         f"""
         <div class="status-box">
-            ⏭️ Next Up: <br>
+            Reminder Next Up: <br>
             {next_class['Course']} <br>
-            ⏰ {next_class['Start_Time']} - {next_class['End_Time']} <br>
-            👨‍🏫 {next_class['Teacher']} <br>
-            📍 {next_class['Venue']}
+            Time {next_class['Start_Time']} - {next_class['End_Time']} <br>
+            Teacher {next_class['Teacher']} <br>
+            Class {next_class['Venue']}
         </div>
         """,
         unsafe_allow_html=True
@@ -355,7 +355,7 @@ elif section == "BSE-1B":
 # -------------------------
 # Footer
 # -------------------------
-st.markdown("<footer>Created by Adnan Ahmed</footer>", unsafe_allow_html=True)
+st.markdown("<footer>Created by Adnan Ahmed(BSE)</footer>", unsafe_allow_html=True)
 
 
 
