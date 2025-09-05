@@ -295,7 +295,7 @@ if section == "BSE-1B":
     st.markdown(
         """
         <div class="notices-box">
-            <h3>📢 Notices for BSE-1b</h3>
+            <h3>📢 Notices for BSE-1B</h3>
             <ul>
                 <li>Report any bugs/issues or change of schedule to me on Whatsapp </li>
                 <li> </li>
@@ -308,7 +308,7 @@ if section == "BSE-1B":
     st.markdown(
         """
         <div class="assignments-box">
-            <h3>📝 Assignments Due for BSE-1A</h3>
+            <h3>📝 Assignments Due for BSE-1B</h3>
             <ul>
                 <li><b>Some assignments </b> </li>
                 <li><b>Complete some stuff </b></li>
@@ -324,7 +324,7 @@ elif section == "BSE-1B":
     st.markdown(
         """
         <div class="notices-box">
-            <h3>📢 Notices for BSCE-1B</h3>
+            <h3>📢 Notices for BSE-1B</h3>
             <ul>
                 <li>Report any bugs or issues to me on whatsapp </li>
                 <li> Calculus Quiz will be scheduled after completion of Ex 3 as per Book </li>
@@ -339,7 +339,7 @@ elif section == "BSE-1B":
     st.markdown(
         """
         <div class="assignments-box">
-            <h3>📝 Assignments Due for BSCE-1B</h3>
+            <h3>📝 Assignments Due for BSE-1B</h3>
             <ul>
                 <li><b>ICT Lab:Complete Lab 2 : Intro to ChatGpt and overleaf (Submission on Monday) </b> </li>
                 <li><b>ICT:write a brief two-page assignment on the history of computers (500_600 words). [Submission on Saturday through GCR{  </b></li>
