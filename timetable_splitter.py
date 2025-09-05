@@ -290,12 +290,12 @@ else:
 # DYNAMIC Notices and Assignments Sections
 # ------------------------------------------------------------------
 # Check which section is selected and display content accordingly
-if section == "BSCE-1A":
-    # --- Notices for section 1A ---
+if section == "BSE-1B":
+    # --- Notices for section 1B ---
     st.markdown(
         """
         <div class="notices-box">
-            <h3>📢 Notices for BSCE-1A</h3>
+            <h3>📢 Notices for BSE-1A</h3>
             <ul>
                 <li>Report any bugs/issues or change of schedule to me on Whatsapp </li>
                 <li> </li>
@@ -308,7 +308,7 @@ if section == "BSCE-1A":
     st.markdown(
         """
         <div class="assignments-box">
-            <h3>📝 Assignments Due for BSCE-1A</h3>
+            <h3>📝 Assignments Due for BSE-1A</h3>
             <ul>
                 <li><b>Physics Lab:Complete Lab 1 and Lab 3 all tasks (DUE FRIDAY) </b> </li>
                 <li><b>ICT:write a brief two-page assignment on the history of computers (500_600 words). [Submission on Saturday through GCR] </b></li>
@@ -319,7 +319,7 @@ if section == "BSCE-1A":
         unsafe_allow_html=True
     )
 
-elif section == "BSCE-1B":
+elif section == "BSE-1B":
     # --- Notices for section 1B ---
     st.markdown(
         """
@@ -355,7 +355,7 @@ elif section == "BSCE-1B":
 # -------------------------
 # Footer
 # -------------------------
-st.markdown("<footer>Created by Wassay Ahmed</footer>", unsafe_allow_html=True)
+st.markdown("<footer>Created by Adnan Ahmed</footer>", unsafe_allow_html=True)
 
 
 
