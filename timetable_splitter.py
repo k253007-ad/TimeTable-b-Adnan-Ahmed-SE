@@ -214,11 +214,11 @@ if next_class is not None:
     st.markdown(
         f"""
         <div class="status-box">
-            Reminder Next Up: <br>
+            ⏭️ Next Up: <br>
             {next_class['Course']} <br>
-            Time {next_class['Start_Time']} - {next_class['End_Time']} <br>
-            Teacher {next_class['Teacher']} <br>
-            Class {next_class['Venue']}
+            ⏰ {next_class['Start_Time']} - {next_class['End_Time']} <br>
+            👨‍🏫 {next_class['Teacher']} <br>
+            📍 {next_class['Venue']}
         </div>
         """,
         unsafe_allow_html=True
